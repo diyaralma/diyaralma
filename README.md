@@ -56,4 +56,4 @@ Detection, multi-object tracking, instance segmentation and multi-person pose es
 
 ### Contact
 
-📫 [diyaralma457@gmail.com](mailto:diyaralma457@gmail.com)
+📫 [diyaralma457@gmail.com](mailto:diyaralma457@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/diyar-alma/)
